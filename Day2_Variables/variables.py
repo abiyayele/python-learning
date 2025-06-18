@@ -2,11 +2,20 @@
 
 
 # string (text) 
-name = "Abiy"
+full_name = "Abiy Ayele Bekele"
+city = "Hamburg"
+county = "Germany"
+
 
 
 # Intiger (whole number)
-age = 30
+age = 32
+birth_year = 1992
+currnt_year = 2025
+
+
+
+
 
 # Float (decimal number)
 height = 1.75
@@ -17,10 +26,15 @@ is_student = True
 
 
 # Print them
-print("Name:",name)
-print("Age:",age)
+print("----------Profile----------------")
+print("Name:",full_name)
+print("Age:",currnt_year - birth_year)
 print("Hight:",height)
 print("learning python:",is_student)
+print ("City:",city)
+print ("County:",county)
+
+
 
 
 
