@@ -10,7 +10,7 @@ This repo contains all my daily exercises, mini-projects, and notes as I learn P
 | Day | Topic              | Status   | Folder               |
 |-----|--------------------|----------|----------------------|
 | 1   | Hello World        | ✅ Done   | `Day1_HelloWorld`    |
-| 2   | Variables & Types  | ⏳ Coming | `Day2_Variables`     |
+| 2   | Variables & Types  | ✅ Done   | `Day2_Variables`     |
 | 3   | Input + Strings    | ⏳ Coming | `Day3_Strings`       |
 | ... | ...                | ...      | ...                  |
 
